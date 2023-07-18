@@ -32,35 +32,32 @@
     "copyFormatting": "none",
     "copyOnSelect": false,
     "defaultProfile": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
-    "initialCols": 85,
-    "initialRows": 35,
+    "newTabMenu": 
+    [
+        {
+            "type": "remainingProfiles"
+        }
+    ],
     "profiles": 
     {
         "defaults": 
         {
-            "colorScheme": "CyberPunk2077",
-            "opacity": 30,
+            "colorScheme": "Blazer",
+            "font": 
+            {
+                "size": 9.0,
+                "weight": "semi-light"
+            },
+            "opacity": 70,
             "useAcrylic": true
         },
         "list": 
         [
             {
-                "colorScheme": "CyberPunk2077",
                 "commandline": "%SystemRoot%\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
-                "cursorShape": "filledBox",
-                "elevate": false,
-                "font": 
-                {
-                    "face": "Lucida Console",
-                    "size": 10
-                },
                 "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
                 "hidden": false,
-                "intenseTextStyle": "all",
-                "name": "Windows PowerShell",
-                "opacity": 50,
-                "tabTitle": "PS",
-                "useAcrylic": true
+                "name": "Windows PowerShell"
             },
             {
                 "commandline": "%SystemRoot%\\System32\\cmd.exe",
@@ -73,41 +70,34 @@
                 "hidden": false,
                 "name": "Azure Cloud Shell",
                 "source": "Windows.Terminal.Azure"
-            },
-            {
-                "guid": "{41ca15e8-d092-5b04-8ae6-4202926f1aeb}",
-                "hidden": false,
-                "name": "Developer Command Prompt for VS 2019",
-                "source": "Windows.Terminal.VisualStudio"
-            },
-            {
-                "guid": "{d28a647a-cb5d-507a-b0b7-a81fd4e99e47}",
-                "hidden": false,
-                "name": "Developer PowerShell for VS 2019",
-                "source": "Windows.Terminal.VisualStudio"
-            },
-            {
-                "guid": "{2ece5bfe-50ed-5f3a-ab87-5cd4baafed2b}",
-                "hidden": false,
-                "name": "Git Bash",
-                "source": "Git"
-            },
-            {
-                "guid": "{2ea9d848-b702-59b9-ba5b-037e22d9eccf}",
-                "hidden": false,
-                "name": "Developer Command Prompt for VS 2019 (2)",
-                "source": "Windows.Terminal.VisualStudio"
-            },
-            {
-                "guid": "{fac4f8fc-a0a6-5a4d-9a3f-89581d9ea2b5}",
-                "hidden": false,
-                "name": "Developer PowerShell for VS 2019 (2)",
-                "source": "Windows.Terminal.VisualStudio"
             }
         ]
     },
     "schemes": 
     [
+        {
+            "background": "#0D1926",
+            "black": "#000000",
+            "blue": "#7A7AB8",
+            "brightBlack": "#262626",
+            "brightBlue": "#BDBDDB",
+            "brightCyan": "#BDDBDB",
+            "brightGreen": "#BDDBBD",
+            "brightPurple": "#DBBDDB",
+            "brightRed": "#DBBDBD",
+            "brightWhite": "#FFFFFF",
+            "brightYellow": "#DBDBBD",
+            "cursorColor": "#D9E6F2",
+            "cyan": "#7AB8B8",
+            "foreground": "#D9E6F2",
+            "green": "#7AB87A",
+            "name": "Blazer",
+            "purple": "#B87AB8",
+            "red": "#B87A7A",
+            "selectionBackground": "#C1DDFF",
+            "white": "#D9D9D9",
+            "yellow": "#B8B87A"
+        },
         {
             "background": "#0C0C0C",
             "black": "#0C0C0C",
@@ -153,52 +143,6 @@
             "selectionBackground": "#FFFFFF",
             "white": "#CCCCCC",
             "yellow": "#C19C00"
-        },
-        {
-            "background": "#272932",
-            "black": "#272932",
-            "blue": "#9381FF",
-            "brightBlack": "#7B8097",
-            "brightBlue": "#37EBF3",
-            "brightCyan": "#37EBF3",
-            "brightGreen": "#40FFE9",
-            "brightPurple": "#CB1DCD",
-            "brightRed": "#C71515",
-            "brightWhite": "#C1DEFF",
-            "brightYellow": "#FFF955",
-            "cursorColor": "#FDF500",
-            "cyan": "#00D0DB",
-            "foreground": "#E455AE",
-            "green": "#1AC5B0",
-            "name": "CyberPunk2077",
-            "purple": "#742D8B",
-            "red": "#710000",
-            "selectionBackground": "#742D8B",
-            "white": "#D1C5C0",
-            "yellow": "#FDF500"
-        },
-        {
-            "background": "#010515",
-            "black": "#010921",
-            "blue": "#10B6FF",
-            "brightBlack": "#080117",
-            "brightBlue": "#00B3F7",
-            "brightCyan": "#00B3F7",
-            "brightGreen": "#00B3F7",
-            "brightPurple": "#00B3F7",
-            "brightRed": "#00B3F7",
-            "brightWhite": "#FEFEFE",
-            "brightYellow": "#00B3F7",
-            "cursorColor": "#10B6FF",
-            "cyan": "#10B6FF",
-            "foreground": "#11B7FF",
-            "green": "#10B6FF",
-            "name": "HaX0R_BLUE",
-            "purple": "#10B6FF",
-            "red": "#10B6FF",
-            "selectionBackground": "#C1E4FF",
-            "white": "#FAFAFA",
-            "yellow": "#10B6FF"
         },
         {
             "background": "#282C34",
@@ -362,6 +306,5 @@
             "yellow": "#808000"
         }
     ],
-    "startOnUserLogin": true,
-    "windowingBehavior": "useAnyExisting"
+    "themes": []
 }
