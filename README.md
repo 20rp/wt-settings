@@ -3,6 +3,8 @@ For maintaining my Windows Terminal profile settings.
 Please feel free to use and extend as you desire.
 
 ## Getting started
+### Pre-requisites
+- Windows Terminal Preview version
 ```
 .\run.ps1
 ```
