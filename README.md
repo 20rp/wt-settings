@@ -16,6 +16,4 @@ To add the wallpaper as the background, go into **Settings** > **Defaults** > **
 ![image](https://github.com/20rp/wt-settings/assets/65660355/0a352a11-240e-47b9-91b7-6e6509899d3c)
 
 ## Final result
-![image](https://github.com/20rp/wt-settings/assets/65660355/4a8560fa-ef79-4823-bf93-f1d235adc9ae)
-
-
+![image](https://github.com/20rp/wt-settings/assets/65660355/a70a1b73-b1f1-4531-88da-d09d86c4fc76)
