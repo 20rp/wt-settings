@@ -8,6 +8,7 @@ Please feel free to use and extend as you desire.
 
   
 ```
+cd .\wt-settings
 .\run.ps1
 ```
 ## Adding background
