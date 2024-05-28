@@ -41,7 +41,7 @@
   "profiles": {
     "defaults": {
       "adjustIndistinguishableColors": "always",
-      "backgroundImage": "C:\\Users\\MG\\code\\wt-settings\\background\\image.png",
+      "backgroundImage": "C:\\Users\\MG\\code\\wt-settings\\background\\image.jpg",
       "backgroundImageOpacity": 0.25,
       "colorScheme": "Color Scheme 15",
       "cursorShape": "filledBox",
